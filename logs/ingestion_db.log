@@ -1,0 +1,8 @@
+2026-03-20 10:18:19,361 - INFO - Ingesting begin_inventory.csv | Rows: 206529
+2026-03-20 10:18:20,462 - INFO - Ingesting end_inventory.csv | Rows: 224489
+2026-03-20 10:18:24,122 - INFO - Ingesting purchases.csv | Rows: 2372474
+2026-03-20 10:18:39,782 - INFO - Ingesting purchase_prices.csv | Rows: 12261
+2026-03-20 10:18:50,259 - INFO - Ingesting sales.csv | Rows: 12825363
+2026-03-20 10:21:13,942 - INFO - Ingesting vendor_invoice.csv | Rows: 5543
+2026-03-20 10:21:14,024 - INFO - Ingestion Complete
+2026-03-20 10:21:14,024 - INFO - Total Time Taken: 2.91 min
