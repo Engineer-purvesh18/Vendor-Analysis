@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 # Creating a connection to databse using SQLite
-engine = create_engine('sqlite:///invetory.db')
+engine = create_engine('sqlite:///inventory.db')
 
 # Defining a fucntion to ingest csv files into dataset
 def ingest_db(df, table_name, engine):
