@@ -1,3 +1,4 @@
 data
 .venv
-invetory.db
+inventory.db
+*.db
