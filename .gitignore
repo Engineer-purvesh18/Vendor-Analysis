@@ -2,3 +2,5 @@ data
 .venv
 inventory.db
 *.db
+vendor_sales_summary.csv
+*.csv
