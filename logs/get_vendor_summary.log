@@ -1,5 +1,5 @@
-2026-03-21 13:23:06,818 - INFO - Creating Vendor Summary Table.....
-2026-03-21 13:23:20,062 - INFO -    VendorNumber                   VendorName  Brand              Description  \
+2026-04-20 09:58:51,689 - INFO - Creating Vendor Summary Table.....
+2026-04-20 09:58:59,990 - INFO -    VendorNumber                   VendorName  Brand              Description  \
 0          1128  BROWN-FORMAN CORP             1233  Jack Daniels No 7 Black   
 1          4425        MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
 2         17035  PERNOD RICARD USA             8068         Absolut 80 Proof   
@@ -26,8 +26,8 @@
 2        461140.15       343854.07    123780.22  
 3        420050.01       368242.80    257032.07  
 4        545778.28       249587.83    257032.07  
-2026-03-21 13:23:20,064 - INFO - Cleaning Data.....
-2026-03-21 13:23:20,071 - INFO -    VendorNumber                VendorName  Brand              Description  \
+2026-04-20 09:58:59,999 - INFO - Cleaning Data.....
+2026-04-20 09:59:00,004 - INFO -    VendorNumber                VendorName  Brand              Description  \
 0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black   
 1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
 2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof   
@@ -61,5 +61,5 @@
 2       0.998575              1.327594  
 3       0.993703              1.372493  
 4       0.983556              1.396897  
-2026-03-21 13:23:20,073 - INFO - Ingesting data.....
-2026-03-21 13:23:20,121 - INFO - Completed
+2026-04-20 09:59:00,005 - INFO - Ingesting data.....
+2026-04-20 09:59:00,021 - INFO - Completed
